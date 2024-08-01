@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   overflow-x: hidden;
+}
+h1{
+    font-family: "Dancing Script", cursive;
+}
+.carousel-control-next,.carousel-control-prev{
+    border: none !important;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 80vh;
+}
+.container h1{
+    font-family: "Dancing Script", cursive;
+}
